@@ -1,0 +1,73 @@
+apply plugin: 'com.android.application'
+android {
+    signingConfigs {
+        butterknifekey {
+            keyAlias 'butterknifekey'
+            keyPassword '654321'
+            storeFile file('../project.jks')
+            storePassword '123456'
+        }
+        compileSdkVersion 24
+        buildToolsVersion "24.0.2"
+        defaultConfig {
+            applicationId "com.example.edwardgu.superapp"
+            minSdkVersion 21
+            targetSdkVersion 24
+            versionCode 1
+            versionName "1.0"
+            testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+        }
+        buildTypes {
+            release {
+                minifyEnabled false
+                proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+                signingConfig signingConfigs.butterknifekey
+            }
+        }
+    }
+    dependencies {
+        compile fileTree(include: ['*.jar'], dir: 'libs')
+        androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+            exclude group: 'com.android.support', module: 'support-annotations'
+        })
+        //ijkplayer视频播放器，支持流媒体形式的视频
+        compile 'com.android.support:appcompat-v7:24.2.1'
+        compile 'com.android.support:design:24.2.1'
+        compile 'com.android.support:support-v4:24.2.1'
+        compile 'com.squareup.okhttp3:okhttp:3.4.1'
+        compile 'com.google.code.gson:gson:2.7'
+        compile 'org.greenrobot:eventbus:3.0.0'
+        compile 'com.android.support:cardview-v7:24.2.1'
+        compile 'com.android.support:gridlayout-v7:24.2.1'
+        compile 'com.squareup.picasso:picasso:2.5.2'
+        compile 'commons-codec:commons-codec:20041127.091804'
+        compile 'tv.danmaku.ijk.media:ijkplayer-java:0.6.2'
+        compile 'tv.danmaku.ijk.media:ijkplayer-armv7a:0.6.2'
+        compile 'tv.danmaku.ijk.media:ijkplayer-x86:0.6.2'
+        compile 'tv.danmaku.ijk.media:ijkplayer-x86_64:0.6.2'
+        compile 'com.alibaba:fastjson:1.2.17'
+        testCompile 'junit:junit:4.12'
+        compile 'com.readystatesoftware.systembartint:systembartint:1.0.4'
+
+        //umeng
+        compile 'com.umeng.analytics:analytics:latest.integration'
+    }
+    dependencies {
+    }
+    defaultConfig {
+        signingConfig signingConfigs.butterknifekey
+    }
+    productFlavors {
+    }
+    buildTypes {
+        debug {
+            signingConfig signingConfigs.butterknifekey
+        }
+        release {
+            signingConfig signingConfigs.butterknifekey
+        }
+    }
+}
+dependencies {
+}

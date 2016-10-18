@@ -1,0 +1,936 @@
+{
+  code: 0,
+  result: [
+    {
+      type: "recommend",
+      head: {
+        param: "",
+        goto: "",
+        style: "gm_av",
+        title: "热门焦点"
+      },
+      body: [
+        {
+          title: "川普和希拉里的情歌对唱，人到了一定年纪，真是什么cp都吃得下",
+          style: "gm_av",
+          cover: "http://i0.hdslb.com/bfs/archive/7f05b9ab76b1502fad028265cc3c1ea00dc57dfe.png",
+          param: "6629691",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "34.1万",
+          danmaku: "2400"
+        },
+        {
+          title: "全明星鬼畜剧：游戏王②",
+          style: "gm_av",
+          cover: "http://i0.hdslb.com/bfs/archive/eaef90615a976bdbae3c34bc5c2cc9bc3bf2e370.jpg",
+          param: "6625642",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "19.5万",
+          danmaku: "2673"
+        },
+        {
+          title: "【小缘翻唱】往上爬！向前进！高高的塔",
+          style: "gm_av",
+          cover: "http://i1.hdslb.com/bfs/archive/dde90ba84042963bbf8e81b08d6c6389691dd04f.jpg_320x200.jpg",
+          param: "6647359",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "15.0万",
+          danmaku: "3290"
+        },
+        {
+          title: "【bilibili星访问第四期】陈坤：大家都是我的翅膀",
+          style: "gm_av",
+          cover: "http://i0.hdslb.com/bfs/archive/0d61a50fc1e3c32c93ec303d65fd3ad71294913a.png",
+          param: "6648504",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "6.1万",
+          danmaku: "2110"
+        }
+      ]
+    },
+    {
+      type: "live",
+      head: {
+        param: "",
+        goto: "live",
+        style: "gm_av",
+        title: "热门直播",
+        count: 4883
+      },
+      body: [
+        {
+          title: "给鼠标附魔",
+          style: "gm_live",
+          cover: "http://i0.hdslb.com/bfs/live/254b3b3638055e68ccf80df021e25c7c22f9ca6b.jpg",
+          param: "5441",
+          goto: "live",
+          width: 580,
+          height: 364,
+          up_face: "http://i2.hdslb.com/bfs/face/bcdf640faa16ebaacea1d4c930baabaec9087a80.jpg",
+          up: "痒局长",
+          online: 7311,
+          area: "网络游戏",
+          area_id: 3
+        },
+        {
+          title: "##游戏！未满18岁勿进！无敌天(≖ ‿ ≖)✧",
+          style: "gm_live",
+          cover: "http://i0.hdslb.com/bfs/live/6bcb9943bb4a803ba376cdfe88cf060ddedeeb25.jpg",
+          param: "92075",
+          goto: "live",
+          width: 580,
+          height: 364,
+          up_face: "http://i0.hdslb.com/bfs/face/7652b718a13eff0bc7f4ecb347c507263f9dd926.jpg",
+          up: "小天不是受QAQ",
+          online: 10998,
+          area: "单机联机",
+          area_id: 1
+        },
+        {
+          title: "10/13 秋叶原电玩女子会 #3 20:00~",
+          style: "gm_live",
+          cover: "http://i0.hdslb.com/bfs/live/912e0f547c188d326087eb1fa25597294fd6a6a7.jpg",
+          param: "66840",
+          goto: "live",
+          width: 580,
+          height: 364,
+          up_face: "http://i1.hdslb.com/bfs/face/9bd0a9f6eba4ced4b1790667046e43f0834d236c.jpg",
+          up: "bilibili秋叶原2",
+          online: 2518,
+          area: "御宅文化",
+          area_id: 2
+        },
+        {
+          title: "这是谁家的小天天？唱歌真难听！",
+          style: "gm_live",
+          cover: "http://i0.hdslb.com/bfs/live/a99bcff537b63c7140e4938af11453535f8770d3.jpg",
+          param: "99023",
+          goto: "live",
+          width: 580,
+          height: 364,
+          up_face: "http://i2.hdslb.com/bfs/face/f5e9be5b20dc6a9f349e369382a1f5c985e8354b.jpg",
+          up: "Prze丶天",
+          online: 533,
+          area: "唱见舞见",
+          area_id: 10
+        }
+      ]
+    },
+    {
+      type: "bangumi_2",
+      head: {
+        param: "13",
+        goto: "subarea",
+        style: "gs_bangumi",
+        title: "番剧推荐"
+      },
+      body: [
+        {
+          title: "火影忍者 疾风传",
+          style: "gs_bangumi",
+          cover: "http://i0.hdslb.com/bfs/archive/f92178402540fbc786ca64d71a21564c66ffcbd6.jpg",
+          param: "3287",
+          goto: "bangumi_list",
+          width: 320,
+          height: 422,
+          desc1: "更新到第699话",
+          status: 2
+        },
+        {
+          title: "无畏魔女",
+          style: "gs_bangumi",
+          cover: "http://i1.hdslb.com/bfs/archive/3d413f8d22c2b1dfa065de6c91012415465cca9e.jpg",
+          param: "5562",
+          goto: "bangumi_list",
+          width: 320,
+          height: 422,
+          desc1: "更新到第2话",
+          status: 2
+        },
+        {
+          title: "解谜之音",
+          style: "gs_bangumi",
+          cover: "http://i1.hdslb.com/bfs/archive/2b5dce13313f72749d9a264df857aa4046961c96.jpg",
+          param: "5557",
+          goto: "bangumi_list",
+          width: 320,
+          height: 422,
+          desc1: "更新到第2话",
+          status: 2
+        },
+        {
+          title: "动画锻炼！XX 同一屋檐下",
+          style: "gs_bangumi",
+          cover: "http://i2.hdslb.com/bfs/archive/ea40b1ca868ee300a4935287afa125146bcf4ed0.jpg",
+          param: "5558",
+          goto: "bangumi_list",
+          width: 320,
+          height: 422,
+          desc1: "更新到第2话",
+          status: 2
+        }
+      ]
+    },
+    {
+      type: "region",
+      head: {
+        param: "1",
+        goto: "subarea",
+        style: "gm_av",
+        title: "动画区"
+      },
+      body: [
+        {
+          title: "【综漫】微微一笑很倾城，动漫中的那些笑颜",
+          style: "gm_av",
+          cover: "http://i1.hdslb.com/bfs/archive/a975c203e28b5a5e31eefd44c986573c87e1f11e.jpg_320x200.jpg",
+          param: "6632433",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "1.4万",
+          danmaku: "464"
+        },
+        {
+          title: "【APH/MMD】Happy Halloween☆【伊米加英仏日露独】",
+          style: "gm_av",
+          cover: "http://i2.hdslb.com/bfs/archive/5173eebd20262b1f627871a2ec667eb92690bfaf.jpg_320x200.jpg",
+          param: "6633163",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "3274",
+          danmaku: "231"
+        },
+        {
+          title: "唯有战斗才能守护一切",
+          style: "gm_av",
+          cover: "http://i1.hdslb.com/bfs/archive/81b5e065cc6209a52c219346b4588b6ebf457b2a.jpg_320x200.jpg",
+          param: "6635428",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "2030",
+          danmaku: "32"
+        },
+        {
+          title: "【废柴君】盘点那些年我们心疼过得女二号！陪伴是最长情的告白",
+          style: "gm_av",
+          cover: "http://i1.hdslb.com/bfs/archive/0435fd5ecf9288dc5a4eaacc05ece786645350f4.jpg_320x200.jpg",
+          param: "6635676",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "2.9万",
+          danmaku: "1670"
+        }
+      ]
+    },
+    {
+      head: {
+        param: "",
+        goto: "",
+        style: "gl_pic",
+        title: ""
+      },
+      body: [
+        {
+          title: "周刊东方排行榜 #54 | 创刊一周年纪念",
+          style: "gl_pic",
+          cover: "http://i0.hdslb.com/bfs/archive/524c3b53bd0f773e28d3aeae02047700e795d105.jpg",
+          param: "6635759",
+          goto: "av",
+          width: 714,
+          height: 211,
+          play: "6362",
+          danmaku: "1992"
+        }
+      ]
+    },
+    {
+      type: "region",
+      head: {
+        param: "3",
+        goto: "subarea",
+        style: "gm_av",
+        title: "音乐区"
+      },
+      body: [
+        {
+          title: "【红发杰克】一人饮酒醉",
+          style: "gm_av",
+          cover: "http://i0.hdslb.com/bfs/archive/f87c3ac78b797bc8121d763f420b1cfb4e7fab4b.jpg_320x200.jpg",
+          param: "6651559",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "1740",
+          danmaku: "162"
+        },
+        {
+          title: "【AKBINGO】161011 AKB48 - LOVE TRIP(中日字幕)",
+          style: "gm_av",
+          cover: "http://i1.hdslb.com/bfs/archive/bb3fcd4d8514700f7cf93be1039878c7eeb95e8c.jpg_320x200.jpg",
+          param: "6641765",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "2412",
+          danmaku: "21"
+        },
+        {
+          title: "【昼夜】aLIEz 电音蝌蚪也可以这样玩【Otamatone】",
+          style: "gm_av",
+          cover: "http://i2.hdslb.com/bfs/archive/b21986e35d7db3d57d80ab2dc648670ff6cee892.jpg_320x200.jpg",
+          param: "6654949",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "9156",
+          danmaku: "707"
+        },
+        {
+          title: "[Икра出品] 布谷鸟 俄罗斯女生翻唱版",
+          style: "gm_av",
+          cover: "http://i0.hdslb.com/bfs/archive/c22c820527fd3306e0753405feb647a31523dd97.jpg_320x200.jpg",
+          param: "6641057",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "1.2万",
+          danmaku: "143"
+        }
+      ]
+    },
+    {
+      type: "weblink",
+      head: {
+        param: "",
+        goto: "",
+        style: "",
+        title: ""
+      },
+      body: [
+        {
+          title: "",
+          style: "gl_normal",
+          cover: "http://i0.hdslb.com/bfs/archive/977f9ca0d92393f7b607364f4f478233270c8dd4.jpg",
+          param: "http://www.bilibili.com/topic/v2/phone1563.html",
+          goto: "weblink",
+          width: 714,
+          height: 211
+        }
+      ]
+    },
+    {
+      type: "region",
+      head: {
+        param: "129",
+        goto: "subarea",
+        style: "gm_av",
+        title: "舞蹈区"
+      },
+      body: [
+        {
+          title: "❀再见，偷花人❀宅舞交流协会群内22人联动❀",
+          style: "gm_av",
+          cover: "http://i1.hdslb.com/bfs/archive/b42a858b408c0366c519558caf7b458e2c875d9e.jpg_320x200.jpg",
+          param: "6627651",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "3742",
+          danmaku: "42"
+        },
+        {
+          title: "【豆腐P】極楽浄土（跳着玩玩233）",
+          style: "gm_av",
+          cover: "http://i2.hdslb.com/bfs/archive/17ecae17ce9abb036c1b9bc85e8e2a03613ef6d2.jpg_320x200.jpg",
+          param: "6630144",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "6948",
+          danmaku: "238"
+        },
+        {
+          title: "【单色舞蹈】满屏都是腿系列 韩舞《kiss it better》",
+          style: "gm_av",
+          cover: "http://i2.hdslb.com/bfs/archive/bb5d8154fead71b9a5d33824265e554e0f2a64fd.jpg_320x200.jpg",
+          param: "6647157",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "3047",
+          danmaku: "23"
+        },
+        {
+          title: "【菇力帕君x小智】拉姆雷姆姐弟的PPAP",
+          style: "gm_av",
+          cover: "http://i1.hdslb.com/bfs/archive/a925fbf687033d284500b0d27ef7d6e4da87c706.jpg_320x200.jpg",
+          param: "6647449",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "1.0万",
+          danmaku: "101"
+        }
+      ]
+    },
+    {
+      type: "region",
+      head: {
+        param: "4",
+        goto: "subarea",
+        style: "gm_av",
+        title: "游戏区"
+      },
+      body: [
+        {
+          title: "英雄联盟动画风MV《Again》",
+          style: "gm_av",
+          cover: "http://i1.hdslb.com/bfs/archive/d8e36e7d5d719abc4b4729577e1eb28968ce8c38.jpg_320x200.jpg",
+          param: "6638315",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "4.9万",
+          danmaku: "174"
+        },
+        {
+          title: "【夏一可】守望先锋：《夏家三千菜》第九期",
+          style: "gm_av",
+          cover: "http://i2.hdslb.com/bfs/archive/21ebde727c4ab549b1a0cf26102ad34add7aa345.jpg_320x200.jpg",
+          param: "6649679",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "11.5万",
+          danmaku: "754"
+        },
+        {
+          title: "【骚男合集10.10】ADC抢五杀抢男爵+遇到了几何桶战歌篇+弟弟闪现来灭火+四杀刀妹",
+          style: "gm_av",
+          cover: "http://i0.hdslb.com/bfs/archive/63c43ff864e40a2ac2c855e767a70626475d2b0c.jpg_320x200.jpg",
+          param: "6636760",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "1.2万",
+          danmaku: "741"
+        },
+        {
+          title: "主播真会玩守望篇12：嘴干又舌燥 老李交到了新朋友",
+          style: "gm_av",
+          cover: "http://i0.hdslb.com/bfs/archive/13024d91beefa8dd165eee9fb41aba74765a8e08.jpg_320x200.jpg",
+          param: "6629419",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "21.6万",
+          danmaku: "1061"
+        }
+      ]
+    },
+    {
+      type: "region",
+      head: {
+        param: "119",
+        goto: "subarea",
+        style: "gm_av",
+        title: "鬼畜区"
+      },
+      body: [
+        {
+          title: "【金坷垃】太少",
+          style: "gm_av",
+          cover: "http://i1.hdslb.com/bfs/archive/96ba5862ac1f8453634445cfed933769267df6e4.jpg_320x200.jpg",
+          param: "6638735",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "5.9万",
+          danmaku: "1331"
+        },
+        {
+          title: "【全明星RAP】多人我醉不归",
+          style: "gm_av",
+          cover: "http://i1.hdslb.com/bfs/archive/03b3c9b6f7f7c323b4d6704223bacf454cd10b48.jpg_320x200.jpg",
+          param: "6647731",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "7134",
+          danmaku: "88"
+        },
+        {
+          title: "【金坷垃】摇摆金坷垃",
+          style: "gm_av",
+          cover: "http://i1.hdslb.com/bfs/archive/3cfae3a866b336183c09552108733140676379b7.jpg_320x200.jpg",
+          param: "6637555",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "5864",
+          danmaku: "427"
+        },
+        {
+          title: "【Gentleman】蓝瘦香菇",
+          style: "gm_av",
+          cover: "http://i2.hdslb.com/bfs/archive/6e4f988fd8f3b9ac78d2fa801c48c1f18b0af140.jpg_320x200.jpg",
+          param: "6637998",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "2.7万",
+          danmaku: "91"
+        }
+      ]
+    },
+    {
+      type: "region",
+      head: {
+        param: "36",
+        goto: "subarea",
+        style: "gm_av",
+        title: "科技区"
+      },
+      body: [
+        {
+          title: "【涛哥测评】这个12寸蝙蝠侠&钢铁侠竟然只要300块？！",
+          style: "gm_av",
+          cover: "http://i1.hdslb.com/bfs/archive/828021baad50647fbfad759c636e41b8aefe9f34.jpg_320x200.jpg",
+          param: "6645350",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "9440",
+          danmaku: "410"
+        },
+        {
+          title: "金灿荣讲座20161008-滁州-国际形势与中国外交",
+          style: "gm_av",
+          cover: "http://i0.hdslb.com/bfs/archive/a44efd51cb6968b79f653836f063bf495e3f5fae.jpg_320x200.jpg",
+          param: "6634305",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "7350",
+          danmaku: "695"
+        },
+        {
+          title: "B站沦陷，首推“大会员”；双11天猫狂欢夜落户深圳，导演变老外【喂你播】",
+          style: "gm_av",
+          cover: "http://i2.hdslb.com/bfs/archive/c0155619f0d89a01a740b61ff0f1e4ef0c7fbce1.jpg_320x200.jpg",
+          param: "6635422",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "6312",
+          danmaku: "70"
+        },
+        {
+          title: "把三星note 7放在微波炉里叮会不会爆炸？- 中文字幕",
+          style: "gm_av",
+          cover: "http://i1.hdslb.com/bfs/archive/ebba61931aa9a11168de1027987bb354d87554de.jpg_320x200.jpg",
+          param: "6635331",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "4824",
+          danmaku: "52"
+        }
+      ]
+    },
+    {
+      type: "weblink",
+      head: {
+        param: "",
+        goto: "",
+        style: "",
+        title: ""
+      },
+      body: [
+        {
+          title: "",
+          style: "gl_normal",
+          cover: "http://i0.hdslb.com/bfs/archive/cf2e9c3863417c521a55d5333c732aaa08bab682.jpg",
+          param: "http://www.bilibili.com/topic/v2/phone1564.html",
+          goto: "weblink",
+          width: 714,
+          height: 211
+        }
+      ]
+    },
+    {
+      type: "activity",
+      head: {
+        param: "subarea",
+        goto: "activity",
+        style: "",
+        title: "活动中心"
+      },
+      body: [
+        {
+          title: "翻唱V+，化身大P的人声本家！",
+          style: "gl_act",
+          cover: "http://i0.hdslb.com/bfs/archive/18465d7e7ce08d38030911fc53ad05cba459a844.jpg",
+          param: "http://www.bilibili.com/html/activity-VocaloidCover-m.html",
+          goto: "weblink",
+          width: 714,
+          height: 211
+        },
+        {
+          title: "今年份的动画角色人气大赏来了！",
+          style: "gl_act",
+          cover: "http://i0.hdslb.com/bfs/archive/d52673fb0bc526cf9452cd5d81769fa6775e1e30.jpg",
+          param: "http://www.bilibili.com/html/activity-20161009moe.html",
+          goto: "weblink",
+          width: 714,
+          height: 211
+        },
+        {
+          title: "元宵晚会征稿安利书！",
+          style: "gl_act",
+          cover: "http://i0.hdslb.com/bfs/archive/aa54c9e4a6cf9b76c42cee6eb0b6aea34130628a.jpg",
+          param: "http://www.bilibili.com/topic/v2/phone1551.html",
+          goto: "weblink",
+          width: 714,
+          height: 211
+        },
+        {
+          title: "竟然可以攻略2233?! ━Σ(ﾟДﾟ|||)━",
+          style: "gl_act",
+          cover: "http://i0.hdslb.com/bfs/archive/882c27633c9bd30a400e424755f57ca5e858cd5a.jpg",
+          param: "http://www.bilibili.com/html/activity-qixi2016.html",
+          goto: "weblink",
+          width: 714,
+          height: 211
+        }
+      ]
+    },
+    {
+      type: "region",
+      head: {
+        param: "160",
+        goto: "subarea",
+        style: "gm_av",
+        title: "生活区"
+      },
+      body: [
+        {
+          title: "天生吃货之铁锅炖鱼【862】",
+          style: "gm_av",
+          cover: "http://i1.hdslb.com/bfs/archive/e3cfc5b91c70137b184c4b9fde625cec34bde3e6.jpg_320x200.jpg",
+          param: "6637659",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "1.3万",
+          danmaku: "813"
+        },
+        {
+          title: "【桐崎荣二】被妹妹和老爸开枪射击 （旧作补充字幕）",
+          style: "gm_av",
+          cover: "http://i2.hdslb.com/bfs/archive/725ab323c84465c48fb78e070242b410f8d859b9.jpg_320x200.jpg",
+          param: "6635333",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "1.2万",
+          danmaku: "140"
+        },
+        {
+          title: "「厨娘物语」85莲藕的2+1种有爱吃法",
+          style: "gm_av",
+          cover: "http://i2.hdslb.com/bfs/archive/336622b9f8e3a5f1feeaa8f6ea917163db72c785.jpg_320x200.jpg",
+          param: "6650342",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "1.3万",
+          danmaku: "176"
+        },
+        {
+          title: "大懒的观察日常( ◞´•௰•`)◞以及碎碎念",
+          style: "gm_av",
+          cover: "http://i2.hdslb.com/bfs/archive/d297ca51f04bdbd51a25d458b7fbcd1ac34db70c.png_320x200.png",
+          param: "6634232",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "1.7万",
+          danmaku: "1015"
+        }
+      ]
+    },
+    {
+      type: "region",
+      head: {
+        param: "155",
+        goto: "subarea",
+        style: "gm_av",
+        title: "时尚区"
+      },
+      body: [
+        {
+          title: "【真·胖子】180斤00后妹子的3套秋季穿搭分享+穿衣心得（非专业，仅供参考）",
+          style: "gm_av",
+          cover: "http://i0.hdslb.com/bfs/archive/66e9b4066233b321fa0939aa6d506d511c48a889.jpg_320x200.jpg",
+          param: "6631395",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "2.3万",
+          danmaku: "471"
+        },
+        {
+          title: "［小兔宝盖］十月不爱用物 这是一波我吃过的套路",
+          style: "gm_av",
+          cover: "http://i1.hdslb.com/bfs/archive/e7d66ea168da84c6341c35f69d2a37738f21c3da.jpg_320x200.jpg",
+          param: "6647441",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "6287",
+          danmaku: "204"
+        },
+        {
+          title: "【小在】【技术测评】即便是这样，WHOO和雪花秀也会有细微区别",
+          style: "gm_av",
+          cover: "http://i1.hdslb.com/bfs/archive/47bde0ed2c53fc66ac4b6cdc82351cbacf1d3d70.jpg_320x200.jpg",
+          param: "6644083",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "1.2万",
+          danmaku: "486"
+        },
+        {
+          title: "【忧姬】掉粉作（化妆教程）",
+          style: "gm_av",
+          cover: "http://i0.hdslb.com/bfs/archive/f774888e93a57b26f88acafe76a8422c178649c7.jpg_320x200.jpg",
+          param: "6636607",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "4304",
+          danmaku: "186"
+        }
+      ]
+    },
+    {
+      type: "region",
+      head: {
+        param: "5",
+        goto: "subarea",
+        style: "gm_av",
+        title: "娱乐区"
+      },
+      body: [
+        {
+          title: "【3104字幕组】20161010-岚之竞技场-大野智的设计工坊CUT",
+          style: "gm_av",
+          cover: "http://i2.hdslb.com/bfs/archive/5c449d16ae1ba5a621e7115c000112f52637c69a.jpg_320x200.jpg",
+          param: "6630024",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "2709",
+          danmaku: "212"
+        },
+        {
+          title: "【张艺兴】whatUneed多机位混剪+合集10P",
+          style: "gm_av",
+          cover: "http://i0.hdslb.com/bfs/archive/ba1fae909d5e6ab15eedbbdd428f7dcd97e1a583.jpg_320x200.jpg",
+          param: "6639139",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "4161",
+          danmaku: "136"
+        },
+        {
+          title: "【No.A Name字幕组】NINO桑20161009 为二宫和也量身打造（上）",
+          style: "gm_av",
+          cover: "http://i0.hdslb.com/bfs/archive/9f7394bc8919e5812e5d0156f1101c29468dfc2b.jpg_320x200.jpg",
+          param: "6638321",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "3380",
+          danmaku: "261"
+        },
+        {
+          title: "【NOGIBINGO!7】EP01 助理主持的认真选拔第二季【乃木坂不够热】",
+          style: "gm_av",
+          cover: "http://i1.hdslb.com/bfs/archive/6e698916b7edbe643db6d2c2c783a8fb2a412211.jpg_320x200.jpg",
+          param: "6631170",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "1.8万",
+          danmaku: "1924"
+        }
+      ]
+    },
+    {
+      type: "region",
+      head: {
+        param: "11",
+        goto: "subarea",
+        style: "gm_av",
+        title: "电视剧区"
+      },
+      body: [
+        {
+          title: "【凡瑶】【李易峰】【赵丽颖】——OUTLAWS OF LOVE/爱的囚徒完整版（看到结尾的都是真爱）",
+          style: "gm_av",
+          cover: "http://i1.hdslb.com/bfs/archive/ce98009fdb91fd197aac30e54947cfb573934be5.jpg_320x200.jpg",
+          param: "6641060",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "2206",
+          danmaku: "199"
+        },
+        {
+          title: "[中字]Krist and Sinto gmm live(一)",
+          style: "gm_av",
+          cover: "http://i1.hdslb.com/bfs/archive/3fa9707ed79c8017c40e4c9ceffcbaf28f619d16.png_320x200.png",
+          param: "6633312",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "3690",
+          danmaku: "240"
+        },
+        {
+          title: "【霆峰/启深】医院小剧场（蠢甜）",
+          style: "gm_av",
+          cover: "http://i0.hdslb.com/bfs/archive/e1a8fc591f6f491e7841f99673267eee360f4c3b.jpg_320x200.jpg",
+          param: "6629418",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "1170",
+          danmaku: "39"
+        },
+        {
+          title: "女版《神探夏洛克》姬情四射神恶搞@油兔不二字幕组",
+          style: "gm_av",
+          cover: "http://i0.hdslb.com/bfs/archive/6308412823e271106cf2a5d46f0844f4266cec1b.jpg_320x200.jpg",
+          param: "6649648",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "3156",
+          danmaku: "103"
+        }
+      ]
+    },
+    {
+      type: "region",
+      head: {
+        param: "23",
+        goto: "subarea",
+        style: "gm_av",
+        title: "电影区"
+      },
+      body: [
+        {
+          title: "电影最TOP 29 ：丧尸凶猛！丧尸类型电影大盘点",
+          style: "gm_av",
+          cover: "http://i1.hdslb.com/bfs/archive/0e8fb8892f4b91103891e20caa0087fb68447b4b.jpg_320x200.jpg",
+          param: "6648967",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "5.8万",
+          danmaku: "2049"
+        },
+        {
+          title: "【刘老师】逆天吐槽《微微一笑很倾城》",
+          style: "gm_av",
+          cover: "http://i2.hdslb.com/bfs/archive/4cf713b0c4f97f96349df0732e2fd3b7ae8b1907.jpg_320x200.jpg",
+          param: "6650597",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "1.8万",
+          danmaku: "366"
+        },
+        {
+          title: "【三口看片儿】五分钟看完参选奥斯卡的取经之作《大唐玄奘》：骑白马的不一定是唐僧，也可能是教主。",
+          style: "gm_av",
+          cover: "http://i1.hdslb.com/bfs/archive/5bb8386c8be9114b44c48b87dbd6e686d1197abf.jpg_320x200.jpg",
+          param: "6637049",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "1.7万",
+          danmaku: "204"
+        },
+        {
+          title: "【暴影君】4分钟看完国产山寨片《澳囧》",
+          style: "gm_av",
+          cover: "http://i1.hdslb.com/bfs/archive/54e8b7956fd9831f110dcf584a22046de99a0e9e.jpg_320x200.jpg",
+          param: "6650459",
+          goto: "av",
+          width: 350,
+          height: 219,
+          play: "1.0万",
+          danmaku: "67"
+        }
+      ]
+    },
+    {
+      type: "weblink",
+      head: {
+        param: "",
+        goto: "",
+        style: "",
+        title: ""
+      },
+      body: [
+        {
+          title: "",
+          style: "gl_normal",
+          cover: "http://i0.hdslb.com/bfs/archive/9543f4a7373a24ed2484d4807cd7db144a6c3d10.jpg",
+          param: " http://www.bilibili.com/html/activity-20161003movie.html",
+          goto: "weblink",
+          width: 714,
+          height: 211
+        }
+      ]
+    },
+    {
+      type: "weblink",
+      head: {
+        param: "",
+        goto: "",
+        style: "",
+        title: ""
+      },
+      body: [
+        {
+          title: "",
+          style: "gl_normal",
+          cover: "http://i0.hdslb.com/bfs/archive/ebe803cd2eb1d48fa2cb8ac828e3ee909151de33.jpg",
+          param: "http://www.bilibili.com/html/activity-20161003tv.html",
+          goto: "weblink",
+          width: 714,
+          height: 211
+        }
+      ]
+    }
+  ]
+}

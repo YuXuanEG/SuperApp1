@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_web_share"
+        android:title="分享"
+        />
+    <item
+        android:id="@+id/action_web_open_chrome"
+        android:title="浏览器打开"
+        />
+    <item
+        android:id="@+id/action_web_copy_link"
+        android:title="复制链接"
+        />
+</menu>

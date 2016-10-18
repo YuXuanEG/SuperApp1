@@ -1,0 +1,49 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!--<item name="windowActionBar">false</item>-->
+        <!--<item name="windowNoTitle">true</item>-->
+        <item name="android:textColorPrimary">#ffffff</item>
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+
+    <!--首页推荐 列表条目-->
+    <style name="Recommend_item_Card">
+        <!--app:layout_columnWeight="1"-->
+        <!--app:cardUseCompatPadding="true"-->
+        <!--app:cardCornerRadius="3dp"-->
+        <!--app:cardElevation="2dp"-->
+
+        <!--所有第三方属性，或者app：开头的属性，不要包含app前缀-->
+        <item name="layout_columnWeight">1</item>
+        <item name="cardUseCompatPadding">true</item>
+        <item name="cardCornerRadius">3dp</item>
+        <item name="cardElevation">2dp</item>
+    </style>
+
+    <style name="Recommend_Item_Body_Icon">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+
+    <style name="Recommend_Item_Body_Title">
+        <item name="android:layout_width">150dp</item>
+        <item name="android:layout_height">30dp</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="ToolbarTheme" parent="@style/ThemeOverlay.AppCompat.ActionBar">
+        <item name="colorPrimary">@color/colorAccent</item>
+    </style>
+
+    <style name="NevigationMenu">
+        <item name="android:textColor">@color/blank</item>
+    </style>
+
+</resources>
